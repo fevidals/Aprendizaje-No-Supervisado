@@ -4,6 +4,7 @@ Este repositorio contiene los talleres de la materia de Aprendizaje No Supervisa
 
 # Autores
 Fabián Vidal
+
 Juan Esteban Días Torres
 
 ## 📂 Estructura del Repositorio
