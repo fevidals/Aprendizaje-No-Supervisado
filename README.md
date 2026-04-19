@@ -2,6 +2,10 @@
 
 Este repositorio contiene los talleres de la materia de Aprendizaje No Supervisado (ANS) durante el primer semestre del año 2026.
 
+# Autores
+Fabián Vidal
+Juan Esteban Días Torres
+
 ## 📂 Estructura del Repositorio
 
 ```text
