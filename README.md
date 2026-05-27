@@ -34,5 +34,5 @@ Juan Esteban Díaz Torres
 │   └── S7_LC_Taller_Geograficos_KDE.ipynb # Taller 7: Econometría Espacial, KDE y uso de APIs (Chicago)
 └──  README.md              # Este documento
 
-## 📄 Licencia
+# 📄 Licencia
 Este proyecto está bajo la Licencia MIT.
