@@ -8,7 +8,12 @@
 
 Este repositorio contiene los talleres de la materia de Aprendizaje No Supervisado (ANS) durante el primer semestre del año 2026. 
 
-Los proyectos implementan modelos estadísticos y de *Machine Learning*, con técnicas de reducción de dimensionalidad mediante Análisis de Componentes Principales (PCA) y Descomposición en Valores Singulares (SVD), implementación de algoritmos de agrupamiento (*Clustering*) a partir de K-means, K-medoides y Clustering Jerárquico y DBSCAN para estrategias de marketing. Sistemas de Recomendación y Filtrado Colaborativo para la personalización de contenido basado en preferencias de usuarios. Modelado de econometría espacial bidimensional utilizando Estimación de Densidad de Kernel (KDE) para la evaluación de políticas públicas urbanas.
+Los proyectos implementan modelos estadísticos y de *Machine Learning*, como:
+
+* Técnicas de reducción de dimensionalidad mediante Análisis de Componentes Principales (PCA) y Descomposición en Valores Singulares (SVD).
+* Algoritmos de segmentación y agrupamiento (*Clustering*) empleando K-means, K-medoides, Clustering Jerárquico y DBSCAN para estrategias de marketing.
+* Sistemas de Recomendación y Filtrado Colaborativo para la personalización de contenido basado en preferencias de usuarios.
+* Modelado de econometría espacial bidimensional utilizando Estimación de Densidad de Kernel (KDE) para la evaluación de políticas públicas urbanas.
 
 # Autores
 Fabián Ernesto Vidal Sánchez
@@ -27,4 +32,7 @@ Juan Esteban Díaz Torres
 │   ├── S4_Taller_Jerarquico_DBSCAN.ipynb  # Taller 4: Segmentación de Clientes con Clustering Jerárquico y DBSCAN
 │   ├── S5_LC_Taller_Colab.ipynb           # Taller 5: Sistema de Recomendación de Música (Last.fm)
 │   └── S7_LC_Taller_Geograficos_KDE.ipynb # Taller 7: Econometría Espacial, KDE y uso de APIs (Chicago)
-└──  README.md              # Este documento      
+└──  README.md              # Este documento
+
+## 📄 Licencia
+Este proyecto está bajo la Licencia MIT.
